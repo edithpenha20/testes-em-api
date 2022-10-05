@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping(value = "/user")
-public class UserResouce {
+public class UserResource {
 
     private static final String ID = "/{id}";
 
